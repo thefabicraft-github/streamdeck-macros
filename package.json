@@ -1,0 +1,26 @@
+{
+  "name": "streamdeck-macros",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thefabicraft-github/streamdeck-macros.git"
+  },
+  "author": "TheFabiCraft",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/thefabicraft-github/streamdeck-macros/issues"
+  },
+  "homepage": "https://github.com/thefabicraft-github/streamdeck-macros#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "kbm-robot": "0.0.4"
+  },
+  "devDependencies": {
+    "@types/node": "^14.0.6"
+  }
+}
