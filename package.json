@@ -18,7 +18,7 @@
   "homepage": "https://github.com/thefabicraft-github/streamdeck-macros#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "kbm-robot": "0.0.4"
+    "robotjs": "^0.6.0"
   },
   "devDependencies": {
     "@types/node": "^14.0.6"
