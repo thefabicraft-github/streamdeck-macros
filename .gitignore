@@ -887,4 +887,6 @@ keys
 
 uwp
 
+key.txt
+
 # End of https://www.gitignore.io/api/node,linux,macos,windows,webstorm,jetbrains,webstorm+all,webstorm+iml,visualstudio,jetbrains+all,jetbrains+iml,visualstudiocode
